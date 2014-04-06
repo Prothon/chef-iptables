@@ -5,7 +5,11 @@ This file is used to list changes made in each version of the iptables cookbook.
 
 0.1.0
 -----
-- [your_name] - Initial release of iptables
+- [Andrew Raymer] - Initial release of iptables
+
+0.1.3
+-----
+- [Andrew Raymer] - Created the disable subroutine.
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
